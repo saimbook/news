@@ -1,0 +1,8 @@
+{
+  "name": "songbadsarathi - সংবাদ সারথি",
+  "description": "An enterprise-grade, modern Bangla online newspaper and news portal with AI-powered summarization, breaking news alerts, and a full CMS administration panel.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
